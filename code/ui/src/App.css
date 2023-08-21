@@ -1,0 +1,58 @@
+body {
+  text-align: left;
+  /* background-color: lightgray; */
+  /* color: darkblue; */
+  margin-left: 10px;
+  padding: 20px;
+  /* font-family: 'Courier New', Courier, monospace; */
+}
+
+.App {
+  /* font-family: 'Courier New', Courier, monospace; */
+  margin-left: 10px;
+  padding: 20px;
+}
+
+.App-nav{
+  margin-bottom: 20px;
+}
+.App-nav a {
+  padding: 5px 20px 5px 20px;
+  border: 2px solid black;
+  border-radius: 3px;
+
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.entity{
+  border-collapse: collapse;
+}
+
+.entity th, .entity td{
+  padding: 3px 5px;
+  border: 1px solid black;
+}
+
+.entity th {
+  background-color: lightgray;
+}
+
+/* .App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+} */
+
+.App-link {
+  color: #61dafb;
+}
+
