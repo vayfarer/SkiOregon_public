@@ -15,7 +15,4 @@ to the transaction. Each resort has its own day pass cost.
 
 TODO:
 Some features were out of the scope of the class assignment and were not fully completed:
-Input validation and sanitizing
-Search functions
-Pagination
-Quality of life improvements for user workflow
+input validation and sanitizing, search functions, pagination, quality of life improvements for user workflow
